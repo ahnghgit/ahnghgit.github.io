@@ -6,4 +6,4 @@ We are not interested in collecting any personal information. We believe such in
 Virtaul Backdrop Live does not collect any personal information or connect to the internet. Any recorded videos you create exist solely on your device and no where else.
 
 ## Contact
-If you have any questions or concerns, please feel free to [contact us](contact@virtualbackdrop.live)
+If you have any questions or concerns, please feel free to [contact us](mailto:contact@virtualbackdrop.live)
