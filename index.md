@@ -10,7 +10,7 @@ youtubeId: t24bZgEWjDM
 {% include youtube_embed.html id=page.youttubeId %}    
 
 
-### [beach](beach.mp4)  
+### [beach](downloads/beach.mp4)  
 https://user-images.githubusercontent.com/26023481/123413457-c2f91000-d5ed-11eb-8669-afe70ec4d7ab.mp4  
 
 ### sea  
