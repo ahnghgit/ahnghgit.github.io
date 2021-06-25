@@ -1,9 +1,13 @@
+---
+youtubeId: t24bZgEWjDM
+---
 # Android Version Available Soon...
 
 # Background Video Sample
 *all videos powered by pexels
 
-{% include youtube_embed.html id="t24bZgEWjDM" %}    
+
+{% include youtube_embed.html id=page.youttubeId %}    
 
 
 ### [beach](beach.mp4)  
