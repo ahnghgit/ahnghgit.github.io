@@ -1,5 +1,6 @@
 ---
 youtubeId: t24bZgEWjDM
+googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view?usp=sharing
 ---
 # Android Version Available Soon...
 
@@ -7,7 +8,7 @@ youtubeId: t24bZgEWjDM
 *all videos powered by pexels
 
 
-{% include youtubePlayer.html id=t24bZgEWjDM %}    
+{% include googleDrivePlayer.html id=page.googleDriveId %}    
 
 
 ### [beach](downloads/beach.mp4)  
