@@ -5,7 +5,7 @@ googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view?embeded=true
 
 # Background Video Sample
 *all videos powered by pexels  
-: beach  
+- beach  
 <div class="embed-container">
   <iframe
       src="https://www.virtualbackdrop.live/downloads/beach.mp4"
@@ -15,7 +15,7 @@ googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view?embeded=true
       allowfullscreen="">
   </iframe>
 </div>  
-: sea  
+- sea  
 <div class="embed-container">
   <iframe
       src="https://www.virtualbackdrop.live/downloads/sea.mp4"
@@ -25,7 +25,7 @@ googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view?embeded=true
       allowfullscreen="">
   </iframe>
 </div>  
-: cloud  
+- cloud  
 <div class="embed-container">
   <iframe
       src="https://www.virtualbackdrop.live/downloads/cloud.mp4"
@@ -35,7 +35,7 @@ googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view?embeded=true
       allowfullscreen="">
   </iframe>
 </div>  
-: particles  
+- particles  
 <div class="embed-container">
   <iframe
       src="https://www.virtualbackdrop.live/downloads/particles.mp4"
@@ -45,7 +45,7 @@ googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view?embeded=true
       allowfullscreen="">
   </iframe>
 </div>  
-: space  
+- space  
 <div class="embed-container">
   <iframe
       src="https://www.virtualbackdrop.live/downloads/space.mp4"
@@ -55,7 +55,7 @@ googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view?embeded=true
       allowfullscreen="">
   </iframe>
 </div>  
-: fire  
+- fire  
 <div class="embed-container">
   <iframe
       src="https://www.virtualbackdrop.live/downloads/fire.mp4"
@@ -65,7 +65,7 @@ googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view?embeded=true
       allowfullscreen="">
   </iframe>
 </div>  
-: street    
+- street    
 <div class="embed-container">
   <iframe
       src="https://www.virtualbackdrop.live/downloads/street.mp4"
