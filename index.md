@@ -1,5 +1,5 @@
 ---
-googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/preview
+googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view?usp=sharing
 ---
 # Android Version Available Soon...
 
