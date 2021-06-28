@@ -1,5 +1,5 @@
 ---
-googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view
+googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view&embedded=true
 ---
 # Android Version Available Soon...
 
