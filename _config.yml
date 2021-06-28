@@ -2,3 +2,9 @@ title: Virtual Backdrop Live
 theme: jekyll-theme-cayman
 domain: virtualbackdrop.live
 url: https://www.virtualbackdrop.live
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled:     true
+  collections: false
+
