@@ -6,8 +6,17 @@ googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view?embeded=true
 # Background Video Sample
 *all videos powered by pexels
 
+<div class="embed-container">
+  <iframe
+      src="https://user-images.githubusercontent.com/26023481/123413457-c2f91000-d5ed-11eb-8669-afe70ec4d7ab.mp4  "
+      width="640"
+      height="360"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>  
 ### [beach](downloads/beach.mp4)  
-https://user-images.githubusercontent.com/26023481/123413457-c2f91000-d5ed-11eb-8669-afe70ec4d7ab.mp4  
+
 
 ### [sea](downloads/sea.mp4)
 https://user-images.githubusercontent.com/26023481/123415350-18362100-d5f0-11eb-8ef3-f8b597edc413.mp4  
