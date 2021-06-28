@@ -7,7 +7,7 @@ youtubeId: t24bZgEWjDM
 *all videos powered by pexels
 
 
-{% include youtubePlayer.html id=page.youttubeId %}    
+{% include youtubePlayer.html id=t24bZgEWjDM %}    
 
 
 ### [beach](downloads/beach.mp4)  
