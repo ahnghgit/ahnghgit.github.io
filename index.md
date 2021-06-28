@@ -1,6 +1,5 @@
 ---
-youtubeId: t24bZgEWjDM
-googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/preview
+googleDriveId: 1zVf1pIt9Em6N7WorH2_bHVEWqLGoiQF_/view
 ---
 # Android Version Available Soon...
 
