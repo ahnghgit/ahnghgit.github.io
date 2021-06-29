@@ -1,10 +1,11 @@
+# Site settings
 title: Virtual Backdrop Live
-theme: jekyll-theme-cayman
-domain: virtualbackdrop.live
-url: https://www.virtualbackdrop.live
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled:     true
-  collections: false
+email: contact@virtualbackdrop.live
+domain: www.virtualbackdrop.live
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://www.virtualbackdrop.live" # the base hostname & protocol for your site
 
+
+# Build settings
+markdown: kramdown
